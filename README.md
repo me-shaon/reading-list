@@ -7,3 +7,6 @@ Necessary, helpful and relevant articles, resources and links to be a better sof
 
 ##### JSON
 * [Introduction to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
+
+##### Others
+* [Programmer competency matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
