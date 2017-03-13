@@ -14,6 +14,9 @@ Necessary, helpful and relevant articles, resources and links to be a better sof
 ##### WebAssembly
 * [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
 
+##### Compiler, Interpreter
+* [A crash course in just-in-time (JIT) compilers](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+
 ##### Interviews
 * [Interview – PHP’s Creator, Rasmus Lerdorf (taken by SitePoint)](https://www.sitepoint.com/phps-creator-rasmus-lerdorf/)
 * [I'm Jason Fried, CEO of Basecamp, and This Is How I Work (taken by LifeHacker)](http://lifehacker.com/im-jason-fried-ceo-of-basecamp-and-this-is-how-i-work-1790556608)
