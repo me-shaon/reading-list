@@ -8,6 +8,9 @@ Necessary, helpful and relevant articles, resources and links to be a better sof
 ##### JSON
 * [Introduction to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 
+##### Session/Web Session
+* [How does a web session work ?](http://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/)
+
 ##### Security
 * [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 
