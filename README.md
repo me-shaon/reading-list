@@ -10,6 +10,7 @@ Necessary, helpful and relevant articles, resources and links to be a better sof
 
 ##### Session/Web Session
 * [How does a web session work ?](http://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/)
+* [Client Side vs Server Side Session](http://phillbarber.blogspot.com/2014/02/client-side-vs-server-side-session.html) 
 
 ##### Security
 * [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
