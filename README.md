@@ -1,5 +1,5 @@
-# reading-list
-Necessary, helpful and relevant articles, resources and links to be a better software craftsman
+# Reading list for Software craftsmans
+Necessary, helpful and relevant articles, resources and links to be a better software craftsman.
 
 
 ##### Webhook
